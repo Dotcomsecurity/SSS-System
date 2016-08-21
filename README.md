@@ -23,3 +23,11 @@ SSS uses a symmetric encryption with AES. A few queries run on the Asymmetric en
 This key is stored in the current session of the server and the browser's local storage.
 
 For keys that are stored on the server, the client uses to start symmetrical communication with AES. All data sent from the client / server will be encrypted with AES.
+
+#HTTPS SSS System Installation
+Install SSS on the server
+
+The installation is completed easily and in less than 40 minutes for untrained persons. Please note that only experienced users from the development of this system should work, otherwise the security is not guaranteed. Before installing the system, be sure to check what each security crypto functions mean on Wikipedia. Do you need assistance, please call us.
+
+Install file is in Zip File from SSS
+
