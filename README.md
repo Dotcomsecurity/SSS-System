@@ -30,6 +30,5 @@ Install SSS on the server
 The installation is completed easily and in less than 40 minutes for untrained persons. Please note that only experienced users from the development of this system should work, otherwise the security is not guaranteed. Before installing the system, be sure to check what each security crypto functions mean on Wikipedia. Do you need assistance, please call us.
 
 Install file is in Zip File from SSS.
-German install Link https://www.dotcomsecurity.de/install-sss.html
-SSS is Made by www.Dotcomsecurity.de
+SSS is Made by www.janotta-partner.de
 
